@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="joda-time-2.10">
+    <CLASSES>
+      <root url="file://C:/Program Files/Java/jdk-13.0.1/lib/joda-time-2.10.5" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/Program Files/Java/jdk-13.0.1/lib/joda-time-2.10.5/src/example" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.1/lib/joda-time-2.10.5/src/main/java" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.1/lib/joda-time-2.10.5/src/test/java" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.1/lib/joda-time-2.10.5" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Program Files/Java/jdk-13.0.1/lib/joda-time-2.10.5" recursive="false" />
+    <jarDirectory url="file://C:/Program Files/Java/jdk-13.0.1/lib/joda-time-2.10.5" recursive="false" type="SOURCES" />
+  </library>
+</component>
